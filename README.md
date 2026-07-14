@@ -1,5 +1,11 @@
-## Hi there 👋
+# 👋 Hello_World; I'm <María Henríquez Cayuqueo>
 
+```javascript
+const developer = {
+    code: ["Javascript", "HTML/CSS", "Python", "SQL"],
+    tools: ["Git", "Docker", "VS Code", "Linux"],
+    currentFocus: "Building cool terminal-themed profiles 💻"
+};
 <!--
 **maria-hc/maria-hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
