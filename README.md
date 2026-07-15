@@ -2,10 +2,11 @@
 
 Python
 ```javascript
-const developer = {
-    code: ["Javascript", "HTML/CSS", "Python", "SQL"],
-    tools: ["Git", "Docker", "VS Code", "Linux"],
-    currentFocus: "Building cool terminal-themed profiles 💻"
+### 🖥️ System_Hardware_&_Tools
+- **OS:** Windows 11 / WSL (Ubuntu)
+- **Shell:** Zsh + OhMyZsh 🐚
+- **IDE:** VS Code (Tokyo Night Theme 🌌)
+- **Fuel:** Coffee & Lo-Fi Beats ☕🎧
 
 
 
